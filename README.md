@@ -1,6 +1,6 @@
 # Hey, I'm Jay 👋
 
-<a href="https://www.jayakrishnancp.com"><img src="https://img.shields.io/badge/🌐 Portfolio-jayakrishnancp.com-0d1b2a?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.jayakrishnancp.com"><img src="https://img.shields.io/badge/🌐 Portfolio-0d1b2a?style=for-the-badge&logoColor=white" /></a>
 <a href="https://linkedin.com/in/jaykrishnancp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ---
@@ -96,16 +96,5 @@ Deeply focused on **AI-driven SOC automation**, detection quality, and turning s
 | 6️⃣ | **Translate risk** | Speak the language of the boardroom |
 | 7️⃣ | **Security is culture** | Technology enables. People defend. |
 | 8️⃣ | **Simplicity is strength** | Complexity is the enemy of resilience |
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=jaykrishnancp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=cdd9e5" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykrishnancp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=cdd9e5" />
-</p>
-
----
 
 <sub>Full profile, case studies & more → <b><a href="https://www.jayakrishnancp.com">jayakrishnancp.com</a></b></sub>
