@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Jayakrishnan%20C%20Prakash&fontSize=40&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <b>Cybersecurity Executive | Zero Trust | MDR/XDR | AI-Driven Security | SOC Transformation</b>
-</p>
+<h1 align="center">Hi 👋, I'm Jayakrishnan C Prakash</h1>
+<h3 align="center">Cybersecurity Executive | Zero Trust | MDR/XDR | AI-Driven Security | SOC Transformation</h3>
 
 <p align="center">
   <a href="https://www.jayakrishnancp.com">
@@ -17,55 +12,75 @@
 
 ---
 
-## 👋 About Me
+## 🚀 About Me
 
-Senior Director – Security Operations with 20+ years of experience leading global SOC, MDR, and Zero Trust programs.  
-
-Focused on:
-- AI-powered threat detection
-- SOC automation
-- Cloud security architecture
-- Enterprise incident response strategy
-- Security metrics & executive dashboards
+- 🔭 Leading global SOC & MDR operations
+- 🛡 Building Zero Trust security programs
+- 🤖 Designing AI-powered detection systems
+- 📊 Creating executive security dashboards
+- 🌐 Driving cloud security transformation
 
 ---
 
-## 🛡 Core Expertise
-
-### Strategy & Leadership
-- Global SOC Oversight
-- Zero Trust Implementation
-- Incident Response Governance
-- Threat Intelligence Strategy
-- Executive Security Reporting
-
-### Technology & Platforms
-- SIEM / SOAR / EDR / XDR
-- Microsoft Sentinel
-- Defender / CrowdStrike
-- Cloud Security (AWS, Azure)
-- Vulnerability Management
-- Security Automation (n8n, Python)
-
----
-
-## 🚀 Active Initiatives
-
-- AI-powered SOC dashboards
-- CVE ingestion & threat intelligence platform
-- OSINT monitoring system
-- Security automation pipelines
-- AI-driven breach simulation research
-
----
-
-## 📊 GitHub Analytics
+## 🛠️ Security & Technology Stack
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+
+<img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,kubernetes,python,postgres,github,git" />
+
 </p>
 
 ---
 
-## 🧠 Security Focus Areas
+## 🧠 Platforms & Tools I Work With
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Defender-2B579A?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrowdStrike-ED1C24?style=for-the-badge&logo=crowdstrike&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tenable-0057B8?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SIEM-Security-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XDR-Detection-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- AI-based SOC automation  
+- CVE ingestion & threat intelligence pipelines  
+- OSINT monitoring platform  
+- Security architecture modernization  
+- AI-powered breach simulation  
+
+---
+
+## 📈 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Connect
+
+- 🌐 Website: https://www.jayakrishnancp.com  
+- 💼 LinkedIn: https://linkedin.com/in/jaykrishnancp  
+
+---
+
+<p align="center">
+  <b>Building intelligent, measurable, and resilient security operations.</b>
+</p>
