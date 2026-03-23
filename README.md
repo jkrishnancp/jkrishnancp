@@ -5,9 +5,9 @@
 
 ---
 
-Senior Cybersecurity Executive · 20+ years building security programs that improve detection, reduce risk, and create operational clarity at scale.
+Senior Director of Security Operations leading enterprise security strategy and global SOC programs across financial services, technology, and critical infrastructure.
 
-Currently leading Security Operations transformation at **UltraViolet Cyber** — consolidating to a CrowdStrike-centered XDR architecture and rolling out Zero Trust across the organization.
+Delivered Zero Trust architecture that cut unauthorized access incidents by **55%** and launched XDR modernization that achieved full detection coverage for a Fortune 500 network enterprise. Scaled security operations teams from **15 to 95 analysts** while establishing governance frameworks and executive reporting that translate technical risk into business decisions.
 
 Deeply focused on **AI-driven SOC automation**, detection quality, and turning security complexity into board-ready decisions.
 
@@ -36,6 +36,10 @@ Deeply focused on **AI-driven SOC automation**, detection quality, and turning s
   <img src="https://img.shields.io/badge/Enterprise%20Security%20Architecture-283747?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Global%20Security%20Operations-1F618D?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Budget%20%26%20Financial%20Oversight-145A32?style=for-the-badge&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Strategic%20Planning-2C3E50?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OKR%20%26%20Roadmap%20Development-1A6B3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Financial%20Modeling-0B3D91?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -50,11 +54,14 @@ Deeply focused on **AI-driven SOC automation**, detection quality, and turning s
   <img src="https://img.shields.io/badge/QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/LogRhythm-FF6600?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/ArcSight-0096D6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secureworks%20Taegis-E60000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hunters-6B1FA2?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Defender%20XDR-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SentinelOne-6B1FA2?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Carbon%20Black-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trend%20Micro-D71920?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Cortex%20XSOAR-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Secureworks%20Taegis-E60000?style=flat-square&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
@@ -64,6 +71,7 @@ Deeply focused on **AI-driven SOC automation**, detection quality, and turning s
   <img src="https://img.shields.io/badge/Azure%20AD%2FEntra-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/CyberArk-003865?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Ping%20Identity-003B5C?style=flat-square&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Tenable-00B9E8?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Qualys-ED2024?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Rapid7-E3001B?style=flat-square&logoColor=white" />
@@ -73,14 +81,15 @@ Deeply focused on **AI-driven SOC automation**, detection quality, and turning s
   <img src="https://img.shields.io/badge/Recorded%20Future-003865?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Anomali-1F4E79?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/ThreatConnect-CC0000?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/ServiceNow%20GRC-062D5F?style=flat-square&logo=servicenow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Veracode-662D91?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Check%20Point-FF0000?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco%20Firepower-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow%20GRC-062D5F?style=flat-square&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 
 ---
